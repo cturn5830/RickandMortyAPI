@@ -1,0 +1,21 @@
+#TitleBar{
+    margin: auto;
+    padding: 0px;
+    background-color:#262C3A;
+    color:#01AFC7;
+    text-align: center;
+}
+#TitleBar img{
+    height:7rem;
+    width: 40rem;
+    padding:0;
+    margin:0;
+}
+#TitleBar h1{
+    padding:0;
+    margin:0;
+}
+.Footer{
+    position: bottom;
+    color:slategray;
+}
