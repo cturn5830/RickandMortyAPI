@@ -22,7 +22,7 @@ export default function NewApi() {
     }
   }
   function subCount() {
-    if (count == 1) {
+    if (count === 1) {
       console.log("No More people!!!");
     } else {
       setCount(count - 1);
